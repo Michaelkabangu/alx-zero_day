@@ -1,6 +1,2 @@
 #!/bin/bash 
-HEAD
- echo ALX School is so cool!
-=======
- echo ALX
-828927430ce89fef82164c7b5b3331f2767dd461
+echo ALX School is so cool!
